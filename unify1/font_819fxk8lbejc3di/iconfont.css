@@ -1,0 +1,43 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1501297771739'); /* IE9*/
+  src: url('iconfont.eot?t=1501297771739#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1501297771739') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1501297771739') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1501297771739#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-infocircle:before { content: "\e7a2"; }
+
+.icon-shoppingcart:before { content: "\e670"; }
+
+.icon-search:before { content: "\e613"; }
+
+.icon-clock:before { content: "\e604"; }
+
+.icon-phone:before { content: "\e6b9"; }
+
+.icon-ccdiscover:before { content: "\e673"; }
+
+.icon-globealt:before { content: "\e718"; }
+
+.icon-ccjcb:before { content: "\e67a"; }
+
+.icon-cc-paypal:before { content: "\e652"; }
+
+.icon-cc-visa:before { content: "\e72e"; }
+
+.icon-cc-stripe:before { content: "\e72d"; }
+
+.icon-trash:before { content: "\e608"; }
+
+.icon-cc-mastercard:before { content: "\e7e0"; }
+
